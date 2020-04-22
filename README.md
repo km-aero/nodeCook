@@ -45,3 +45,6 @@ KITCHEN_YAML=.kitchen9.yml kitchen test
 
 ### Running the Cookbook
 If all tests have passed you can continue forward and use the cookbook to create a machine image (AMI in AWS) using packer which will not be shown here.
+
+## Author
+**Kevin Monteiro** - *DevOps Engineer* - [km-aero](https://github.com/km-aero)
